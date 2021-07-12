@@ -7,7 +7,7 @@ layout: default
  
 ### Supplementary data for
 
-Critical Benchmarking of Popular Composite Thermochemistry Models and Density Functional Approximations on a Probabilistically Pruned Benchmark Dataset of Formation Enthalpies     
+_Critical Benchmarking of Popular Composite Thermochemistry Models and Density Functional Approximations on a Probabilistically Pruned Benchmark Dataset of Formation Enthalpies_     
 Sambit Kumar Das, Sabyasachi Chakraborty, Raghunathan Ramakrishnan     
 J. Chem. Phys. 154, 044113 (2021)       
 [https://aip.scitation.org/doi/full/10.1063/5.0032713](https://aip.scitation.org/doi/full/10.1063/5.0032713)
